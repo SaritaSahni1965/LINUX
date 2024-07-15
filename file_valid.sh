@@ -8,7 +8,7 @@
 #
 ###################################################################
 
-# Create temporary file with current PID to store the filenames
+# Create temporary file with current PID to store the filenames-1
 msgfile=rdmmailmsg$$
 noFF_msg="File Not Found"
 TodayDate=`date +%y%m%d`
